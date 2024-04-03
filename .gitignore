@@ -1,5 +1,2 @@
-# .gitignore file
+#ignore the .env file
 .env
-.log
-node_modules/
-build/
