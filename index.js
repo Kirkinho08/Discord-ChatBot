@@ -15,7 +15,7 @@ client.on('ready', () => {
 
 //Define constants
 const IGNORE_PREFIX = "!";
-const CHANNELS = ['1224457874219208716'];
+const CHANNELS = ['1224457874219208716', '1225480615990661212'];
 
 //Initialize OpenAI client with the API key
 const openai = new OpenAI({
