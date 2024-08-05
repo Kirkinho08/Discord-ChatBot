@@ -1,2 +1,5 @@
-#ignore the .env file
+#ignore files
 .env
+.log
+node_modules/
+build/
